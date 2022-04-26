@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b563c32b.css",
+    "main.js": "/static/js/main.2fa3dbc1.js",
+    "static/media/pokedeximagem.png": "/static/media/pokedeximagem.faecd4e1564305afe9b8.png",
+    "index.html": "/index.html",
+    "main.b563c32b.css.map": "/static/css/main.b563c32b.css.map",
+    "main.2fa3dbc1.js.map": "/static/js/main.2fa3dbc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b563c32b.css",
+    "static/js/main.2fa3dbc1.js"
+  ]
+}
